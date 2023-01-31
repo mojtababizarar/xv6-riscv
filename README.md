@@ -1,2 +1,2 @@
 # xv6
-added kfreemem systemcall which prints free memory available
+added kfreemem system call which prints free memory available
